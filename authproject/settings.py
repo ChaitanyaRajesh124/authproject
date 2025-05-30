@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'authproject.urls'
+ROOT_URLCONF = 'authproject.url'
 
 TEMPLATES = [
     {
